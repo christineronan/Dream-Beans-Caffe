@@ -1,0 +1,63 @@
+body{
+	}
+
+header {
+  	background: #230b03;
+  	background-image:url(beans.jpg);
+  	background-repeat:no-repeat;
+  	background-size:cover;
+  	padding-bottom:1em;
+	}
+.logo {
+	position:relative;
+	position:center;
+	}
+nav.bar {
+	padding: .5em;
+	font-family: serif;
+	text-align:center;
+	position:relative;
+	background-color:#230b03;
+	background-size:100%;
+	}
+nav a {
+	color:tan;
+	margin: 5px 10px 5px 10px;
+	}
+article.one{
+	margin:0px 10px 5px 10px;
+	width:45%;
+	text-align: center;
+	display:inline-block;
+	vertical-align: top;
+	float:left;
+	}
+
+	article.two{
+	margin:0px 10px 5px 10px;
+	width:45%;
+	text-align: center;
+	display:inline-block;
+	vertical-align: top;
+	float: right;
+	}
+
+h1{
+	font-family: sans-serif;
+	font-size: 2em;
+	color:#230b03;
+	}
+
+p{
+	font-size: 1em;
+	line-height: 1.2em;
+		}
+footer{
+	float: none;
+	clear: both;
+	background-color: #230b03;
+	text-align: center;
+	color: tan;
+	padding:2em 0 2em 0;
+}
+	

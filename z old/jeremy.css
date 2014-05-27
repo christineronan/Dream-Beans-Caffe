@@ -1,0 +1,74 @@
+body{
+  margin: 0;
+}
+header{
+  background: brown;
+  background-image: url(../images/beans.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 1em;
+}
+.logo{
+  display: block;
+  margin: auto;
+}
+nav {
+  position: relative;
+	background-color: #230b03;
+	color: white;
+  text-align: center;
+  margin: 1em 0 0 0;
+}
+nav a{
+  display: inline-block;
+  color: tan;
+  text-decoration: none;
+  padding: 0.5em 1em 0.5em 1em;
+}
+
+section.content{
+  text-align: center;
+}
+article{
+  width: 300px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  /*float: t: left;*/
+}
+footer{
+  text-align: center;
+  background-color: #230b03;
+  color: tan;
+  padding: 2em 0;
+
+ /* float: none;
+  clear: both;*/
+}
+h1 {
+  font-size: 2em;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-family: sans-serif;
+  text-align: center;
+  color: #230b03;
+}
+
+p {
+  text-align: center;
+}
+
+
+.footer {
+  background-color: #230b03;
+  padding: 2%;
+  color: white;
+  text-align: center;
+  position:absolute;
+  bottom:5px;
+  width:100%;
+}
