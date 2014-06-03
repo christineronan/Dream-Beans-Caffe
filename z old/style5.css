@@ -1,0 +1,24 @@
+header{
+	background-image: url(beans.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	padding-bottom:2em;
+}
+.logo{
+	display:block;
+	margin:auto;
+}
+nav.bar{
+	margin-top:1em;
+	width:100%;
+	background-color:#230b03;
+	background-size:100%;
+	padding:.6em;
+	text-align:center;
+}
+nav a{
+	color:tan;
+	padding:1em 1em 1em 1em;
+
+
+}
