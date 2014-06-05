@@ -20,10 +20,10 @@ nav{
 	text-align: center;
 	padding:.5em;
 	}
-}nav a{
+nav a{
 	color:tan;
 	text-decoration: none;
-	padding:1em;
+	margin:1em;
 	}
 article{
 	display:inline-block;
@@ -54,9 +54,9 @@ footer{
 @media screen and (max-width:680px){
 	article { 
 	display:block;
-	width: 100%;
+	width: auto;
 	text-align:center;
-	padding:0% 10% 0% 5%;
+	margin-right 2em;
 	}
 	}
 	
